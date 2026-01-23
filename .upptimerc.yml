@@ -1,36 +1,32 @@
-# Change these first
-owner: Parsepoint-Software # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Parsepoint-Software
+repo: upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  # Frontend App (Next.js)
+  - name: Parsepoint App
+    url: https://app-parsepoint.com
+
+  # Backend API (Django on ECS)
+  - name: Parsepoint API
+    url: https://api.app-parsepoint.com/api/health/
+
+  # Celery Worker (EC2)
+  - name: Celery Worker
+    url: 18.219.131.79
+    port: 22
+    check: tcp-ping
+
+  # Marketing Website
+  - name: Parsepoint Website
+    url: https://parsepoint.com
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.parsepoint.com
+  name: Parsepoint Status
+  introTitle: "**Parsepoint** System Status"
+  introMessage: "Real-time status for Parsepoint services. Powered by [Upptime](https://github.com/upptime/upptime)."
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: Parsepoint
+      href: https://parsepoint.com
