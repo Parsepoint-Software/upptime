@@ -21,6 +21,7 @@ sites:
     url: https://parsepoint.com
 
 status-website:
+  publish: true
   cname: status.parsepoint.com
   name: Parsepoint Status
   introTitle: "**Parsepoint** System Status"
