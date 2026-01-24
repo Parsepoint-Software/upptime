@@ -52,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-23": 1345
+      "2026-01-24": 23,
+      "2026-01-23": 1370
     }
   },
   {
@@ -61,18 +62,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/parsepoint.com.ico",
     "slug": "parsepoint-website",
     "status": "up",
-    "uptime": "96.36%",
-    "uptimeDay": "96.36%",
-    "uptimeWeek": "96.36%",
-    "uptimeMonth": "96.36%",
-    "uptimeYear": "96.36%",
+    "uptime": "97.52%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "97.52%",
+    "uptimeMonth": "97.52%",
+    "uptimeYear": "97.52%",
     "time": 1367,
     "timeDay": 1367,
     "timeWeek": 1367,
     "timeMonth": 1367,
     "timeYear": 1367,
     "dailyMinutesDown": {
-      "2026-01-23": 48
+      "2026-01-23": 34
     }
   }
 ]
