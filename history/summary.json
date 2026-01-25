@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app-parsepoint.com.ico",
     "slug": "parsepoint-app",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 405,
     "timeDay": 407,
     "timeWeek": 405,
     "timeMonth": 405,
     "timeYear": 405,
-    "dailyMinutesDown": {
-      "2026-01-25": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Parsepoint API",
@@ -54,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 1265,
+      "2026-01-25": 1314,
       "2026-01-24": 1440,
       "2026-01-23": 1370
     }
@@ -64,14 +62,14 @@
     "url": "https://parsepoint.com",
     "icon": "https://icons.duckduckgo.com/ip3/parsepoint.com.ico",
     "slug": "parsepoint-website",
-    "status": "up",
-    "uptime": "97.21%",
+    "status": "down",
+    "uptime": "97.24%",
     "uptimeDay": "95.61%",
-    "uptimeWeek": "97.21%",
-    "uptimeMonth": "97.21%",
-    "uptimeYear": "97.21%",
+    "uptimeWeek": "97.24%",
+    "uptimeMonth": "97.24%",
+    "uptimeYear": "97.24%",
     "time": 1438,
-    "timeDay": 1417,
+    "timeDay": 1556,
     "timeWeek": 1438,
     "timeMonth": 1438,
     "timeYear": 1438,
