@@ -13,7 +13,7 @@
     "time": 502,
     "timeDay": 425,
     "timeWeek": 593,
-    "timeMonth": 502,
+    "timeMonth": 510,
     "timeYear": 502,
     "dailyMinutesDown": {
       "2026-02-05": 17,
@@ -34,7 +34,7 @@
     "time": 259,
     "timeDay": 159,
     "timeWeek": 287,
-    "timeMonth": 259,
+    "timeMonth": 261,
     "timeYear": 259,
     "dailyMinutesDown": {}
   },
@@ -44,11 +44,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "celery-worker",
     "status": "down",
-    "uptime": "90.62%",
+    "uptime": "90.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.45%",
-    "uptimeYear": "90.62%",
+    "uptimeMonth": "91.51%",
+    "uptimeYear": "90.73%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -65,18 +65,19 @@
     "url": "https://parsepoint.com",
     "icon": "https://icons.duckduckgo.com/ip3/parsepoint.com.ico",
     "slug": "parsepoint-website",
-    "status": "up",
-    "uptime": "93.91%",
-    "uptimeDay": "97.46%",
+    "status": "down",
+    "uptime": "94.03%",
+    "uptimeDay": "97.45%",
     "uptimeWeek": "94.37%",
-    "uptimeMonth": "93.80%",
-    "uptimeYear": "93.91%",
+    "uptimeMonth": "93.85%",
+    "uptimeYear": "94.03%",
     "time": 547,
     "timeDay": 411,
     "timeWeek": 371,
-    "timeMonth": 547,
+    "timeMonth": 534,
     "timeYear": 547,
     "dailyMinutesDown": {
+      "2026-02-23": 0,
       "2026-02-22": 37,
       "2026-02-21": 47,
       "2026-02-20": 179,
@@ -105,7 +106,7 @@
       "2026-01-28": 57,
       "2026-01-27": 105,
       "2026-01-26": 24,
-      "2026-01-25": 44
+      "2026-01-25": 18
     }
   }
 ]
