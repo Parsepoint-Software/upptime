@@ -44,11 +44,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "celery-worker",
     "status": "down",
-    "uptime": "90.92%",
+    "uptime": "90.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.64%",
-    "uptimeYear": "90.92%",
+    "uptimeMonth": "94.04%",
+    "uptimeYear": "90.95%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -65,18 +65,19 @@
     "url": "https://parsepoint.com",
     "icon": "https://icons.duckduckgo.com/ip3/parsepoint.com.ico",
     "slug": "parsepoint-website",
-    "status": "up",
-    "uptime": "94.07%",
+    "status": "down",
+    "uptime": "94.15%",
     "uptimeDay": "96.24%",
     "uptimeWeek": "94.18%",
-    "uptimeMonth": "93.77%",
-    "uptimeYear": "94.07%",
+    "uptimeMonth": "93.83%",
+    "uptimeYear": "94.15%",
     "time": 543,
     "timeDay": 280,
     "timeWeek": 362,
     "timeMonth": 514,
     "timeYear": 543,
     "dailyMinutesDown": {
+      "2026-02-24": 0,
       "2026-02-23": 54,
       "2026-02-22": 37,
       "2026-02-21": 47,
@@ -104,8 +105,7 @@
       "2026-01-30": 104,
       "2026-01-29": 103,
       "2026-01-28": 57,
-      "2026-01-27": 105,
-      "2026-01-26": 24
+      "2026-01-27": 105
     }
   }
 ]
