@@ -67,17 +67,17 @@
     "slug": "parsepoint-website",
     "status": "up",
     "uptime": "95.18%",
-    "uptimeDay": "90.61%",
-    "uptimeWeek": "94.27%",
-    "uptimeMonth": "93.45%",
+    "uptimeDay": "91.51%",
+    "uptimeWeek": "94.40%",
+    "uptimeMonth": "93.48%",
     "uptimeYear": "95.18%",
     "time": 492,
     "timeDay": 416,
-    "timeWeek": 348,
+    "timeWeek": 354,
     "timeMonth": 355,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2026-03-08": 135,
+      "2026-03-08": 122,
       "2026-03-07": 19,
       "2026-03-06": 67,
       "2026-03-05": 145,
@@ -106,7 +106,8 @@
       "2026-02-10": 185,
       "2026-02-09": 299,
       "2026-02-08": 213,
-      "2026-02-07": 36
+      "2026-02-07": 36,
+      "2026-02-06": 20
     }
   }
 ]
