@@ -65,18 +65,19 @@
     "url": "https://parsepoint.com",
     "icon": "https://icons.duckduckgo.com/ip3/parsepoint.com.ico",
     "slug": "parsepoint-website",
-    "status": "up",
-    "uptime": "95.35%",
-    "uptimeDay": "88.07%",
+    "status": "down",
+    "uptime": "95.45%",
+    "uptimeDay": "88.18%",
     "uptimeWeek": "91.86%",
     "uptimeMonth": "93.84%",
-    "uptimeYear": "95.35%",
+    "uptimeYear": "95.45%",
     "time": 487,
-    "timeDay": 396,
+    "timeDay": 389,
     "timeWeek": 369,
     "timeMonth": 366,
     "timeYear": 487,
     "dailyMinutesDown": {
+      "2026-03-11": 0,
       "2026-03-10": 199,
       "2026-03-09": 128,
       "2026-03-08": 122,
@@ -106,7 +107,7 @@
       "2026-02-12": 146,
       "2026-02-11": 164,
       "2026-02-10": 185,
-      "2026-02-09": 261
+      "2026-02-09": 194
     }
   }
 ]
