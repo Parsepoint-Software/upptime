@@ -12,9 +12,10 @@ sites:
 
   # Celery Worker (EC2)
   - name: Celery Worker
-    url: 18.219.131.79
-    port: 22
-    check: tcp-ping
+    url: http://ec2-18-222-203-52.us-east-2.compute.amazonaws.com:8080/health
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 30000
 
   # Marketing Website (Hostinger - needs browser User-Agent to avoid bot blocking)
   - name: Parsepoint Website
