@@ -10,9 +10,11 @@ sites:
   - name: Parsepoint API
     url: https://api.app-parsepoint.com/api/health/
 
-  # Celery Worker (EC2)
+  # Celery Worker health is published privately to CloudWatch and exposed via a token-protected backend facade.
   - name: Celery Worker
-    url: http://ec2-18-222-203-52.us-east-2.compute.amazonaws.com:8080/health
+    url: https://api.app-parsepoint.com/api/status/celery-worker/health/
+    headers:
+      - "X-Upptime-Token: $UPPTIME_STATUS_TOKEN"
     expectedStatusCodes:
       - 200
     maxResponseTime: 30000
