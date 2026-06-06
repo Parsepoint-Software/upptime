@@ -4,11 +4,11 @@
     "url": "https://app-parsepoint.com",
     "icon": "https://icons.duckduckgo.com/ip3/app-parsepoint.com.ico",
     "slug": "parsepoint-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 516,
     "timeDay": 385,
@@ -17,7 +17,8 @@
     "timeYear": 516,
     "dailyMinutesDown": {
       "2026-01-26": 16,
-      "2026-02-05": 17
+      "2026-02-05": 17,
+      "2026-06-06": 10
     }
   },
   {
@@ -25,30 +26,32 @@
     "url": "https://api.app-parsepoint.com/api/health/",
     "icon": "https://icons.duckduckgo.com/ip3/api.app-parsepoint.com.ico",
     "slug": "parsepoint-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 271,
     "timeDay": 179,
     "timeWeek": 260,
     "timeMonth": 273,
     "timeYear": 271,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-06": 5
+    }
   },
   {
     "name": "Celery Worker",
     "url": "https://api.app-parsepoint.com/api/status/celery-worker/health/",
     "icon": "https://icons.duckduckgo.com/ip3/api.app-parsepoint.com.ico",
     "slug": "celery-worker",
-    "status": "up",
-    "uptime": "53.88%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "54.03%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "28.18%",
-    "uptimeYear": "53.88%",
+    "uptimeMonth": "29.59%",
+    "uptimeYear": "54.03%",
     "time": 147,
     "timeDay": 177,
     "timeWeek": 239,
@@ -117,7 +120,8 @@
       "2026-04-21": 1440,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
-      "2026-04-18": 1440
+      "2026-04-18": 1440,
+      "2026-06-06": 0
     }
   },
   {
@@ -126,11 +130,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/parsepoint.com.ico",
     "slug": "parsepoint-website",
     "status": "up",
-    "uptime": "98.31%",
+    "uptime": "98.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.31%",
+    "uptimeYear": "98.32%",
     "time": 483,
     "timeDay": 560,
     "timeWeek": 439,
