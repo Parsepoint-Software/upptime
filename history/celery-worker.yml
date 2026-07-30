@@ -1,7 +1,7 @@
 url: https://api.app-parsepoint.com/api/status/celery-worker/health/
-status: up
-code: 200
-responseTime: 208
-lastUpdated: 2026-07-30T00:03:39.562Z
+status: down
+code: 503
+responseTime: 369
+lastUpdated: 2026-07-30T15:25:52.065Z
 startTime: 2026-01-23T01:08:34.043Z
 generator: Upptime <https://github.com/upptime/upptime>
