@@ -13,7 +13,7 @@
     "time": 533,
     "timeDay": 306,
     "timeWeek": 543,
-    "timeMonth": 588,
+    "timeMonth": 579,
     "timeYear": 533,
     "dailyMinutesDown": {
       "2026-01-26": 16,
@@ -35,7 +35,7 @@
     "time": 266,
     "timeDay": 207,
     "timeWeek": 271,
-    "timeMonth": 268,
+    "timeMonth": 267,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2026-06-06": 27
@@ -46,16 +46,16 @@
     "url": "https://api.app-parsepoint.com/api/status/celery-worker/health/",
     "icon": "https://icons.duckduckgo.com/ip3/api.app-parsepoint.com.ico",
     "slug": "celery-worker",
-    "status": "down",
-    "uptime": "51.25%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "status": "up",
+    "uptime": "51.15%",
+    "uptimeDay": "65.39%",
+    "uptimeWeek": "95.06%",
     "uptimeMonth": "76.61%",
-    "uptimeYear": "51.25%",
+    "uptimeYear": "51.15%",
     "time": 200,
-    "timeDay": 289,
-    "timeWeek": 249,
-    "timeMonth": 240,
+    "timeDay": 247,
+    "timeWeek": 239,
+    "timeMonth": 236,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2026-01-25": 1372,
@@ -154,7 +154,7 @@
       "2026-06-08": 1440,
       "2026-06-07": 542,
       "2026-07-12": 172,
-      "2026-07-30": 0
+      "2026-07-30": 498
     }
   },
   {
@@ -171,7 +171,7 @@
     "time": 472,
     "timeDay": 281,
     "timeWeek": 420,
-    "timeMonth": 410,
+    "timeMonth": 419,
     "timeYear": 472,
     "dailyMinutesDown": {
       "2026-02-10": 185,
