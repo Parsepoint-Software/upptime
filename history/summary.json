@@ -50,16 +50,16 @@
     "url": "https://api.app-parsepoint.com/api/status/celery-worker/health/",
     "icon": "https://icons.duckduckgo.com/ip3/api.app-parsepoint.com.ico",
     "slug": "celery-worker",
-    "status": "down",
+    "status": "up",
     "uptime": "68.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.08%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.06%",
     "uptimeYear": "68.94%",
     "time": 265,
-    "timeDay": 197,
-    "timeWeek": 303,
-    "timeMonth": 351,
+    "timeDay": 226,
+    "timeWeek": 301,
+    "timeMonth": 349,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2026-01-25": 1372,
@@ -162,7 +162,7 @@
       "2026-08-14": 63,
       "2026-08-23": 35,
       "2026-10-29": 405,
-      "2026-11-17": 0
+      "2026-11-17": 9
     }
   },
   {
